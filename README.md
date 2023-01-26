@@ -4,7 +4,7 @@
   
   const Anselmoj = {
     former: 'Analysis and Systems Development',
-    currently: 'Web Developer as Rac Systems',
+    currently: 'Web Developer at Rac Systems',
     living: 'Sao Jose do Rio Preto, Brazil',
     tech: ['JavaScript', 'HTML', 'CSS', 'React.js', 'TypeScript'],
     hobbies: ['Gym', 'Jiu Jitsu'],
