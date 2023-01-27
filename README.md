@@ -2,7 +2,7 @@
 
   ```javascript
   
-  const Anselmoj = {
+  const anselmoj = {
     former: 'Analysis and Systems Development',
     currently: 'Web Developer at Rac Systems',
     living: 'Sao Jose do Rio Preto, Brazil',
